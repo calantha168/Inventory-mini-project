@@ -3,10 +3,15 @@ It allows users to add, remove, update, search, and export product inventory. Th
 
 nventory_project/
 │
+
 ├── main.py # Main program with menu
+
 ├── product.py # Product class (ID, name, price, quantity)
+
 ├── inventory.py # Inventory class (manages all products)
+
 ├── inventory.json # Auto-saved data (after running the program)
+
 └── README.md # Project description
 
  Inventory Menu:
