@@ -1,7 +1,7 @@
 This is a simple **console-based inventory management system** built using Python and Object-Oriented Programming principles.
 It allows users to add, remove, update, search, and export product inventory. The program saves data between sessions using a JSON file.
 
-nventory_project/
+Inventory_project
 
 │
 
